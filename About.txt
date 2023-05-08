@@ -1,2 +1,6 @@
 About:
 -MongoDB + MongoDB Compass
+-Mongoose
+-Express
+-Bcrypt
+-Nodemon
