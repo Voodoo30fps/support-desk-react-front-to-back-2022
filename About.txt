@@ -1,9 +1,21 @@
 About:
--MongoDB + MongoDB Compass
--Mongoose
--Express
--Bcrypt
--Nodemon
--Postman
--React + Redux template
--Concurrently
+
+    Database:
+        -MongoDB
+        -Mongoose
+
+    Backend:
+        -Express
+        -Bcrypt
+        -Nodemon
+
+    Frontend:
+        -React + Redux template
+        -Redux
+
+    Extra Tools/Packages:
+        -Concurrently
+
+    Extra Apps:
+        -MongoDB Compass
+        -Postman
