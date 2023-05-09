@@ -5,3 +5,5 @@ About:
 -Bcrypt
 -Nodemon
 -Postman
+-React + Redux template
+-Concurrently
