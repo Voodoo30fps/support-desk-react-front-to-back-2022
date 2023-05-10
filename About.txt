@@ -12,6 +12,7 @@ About:
     Frontend:
         -React + Redux template
         -Redux
+        -Custom Hooks
 
     Extra Tools/Packages:
         -Concurrently
