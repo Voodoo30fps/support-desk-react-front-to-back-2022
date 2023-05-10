@@ -11,7 +11,7 @@ About:
 
     Frontend:
         -React + Redux template
-        -Redux
+        -Redux (Toolkit)
         -Custom Hooks
 
     Extra Tools/Packages:
